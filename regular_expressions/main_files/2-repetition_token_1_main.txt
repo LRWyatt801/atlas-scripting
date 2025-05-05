@@ -1,9 +1,9 @@
 $ ./1-repetiton_token_0.rb hbn | cat -e
-$
+hbn$
 $ ./1-repetiton_token_0.rb hbtn | cat -e
 hbtn$
-$ ./1-repetiton_token_0.rb hbttn | cat -e
-hbttn$
-$ ./1-repetiton_token_0.rb hbtttn | cat -e
-hbtttn$
+$ ./1-repetiton_token_0.rb hbbtn | cat -e
+$
+$ ./1-repetiton_token_0.rb hbbbtn | cat -e
+$
 
