@@ -1,0 +1,8 @@
+$ ./5-beginning_and_end.rb 'hn' | cat -e
+$
+$ ./5-beginning_and_end.rb 'hbn' | cat -e
+hbn$
+$ ./5-beginning_and_end.rb 'hbtn' | cat -e
+$
+$ ./5-beginning_and_end.rb 'h8n' | cat -e
+h8n$
