@@ -1,0 +1,8 @@
+$ ./0-simply_match_holberton.rb School | cat -e
+School$
+$ ./0-simply_match_holberton.rb "Best School" | cat -e
+School$
+$ ./0-simply_match_holberton.rb "School Best School" | cat -e
+SchoolSchool$
+$ ./0-simply_match_holberton.rb "Grace Hopper" | cat -e
+$
