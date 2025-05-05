@@ -1,0 +1,9 @@
+$ ./1-repetiton_token_0.rb htn | cat -e
+htn$
+$ ./1-repetiton_token_0.rb hbtn | cat -e
+hbtn$
+$ ./1-repetiton_token_0.rb hbbtn | cat -e
+$
+$ ./1-repetiton_token_0.rb hbbbtn | cat -e
+$
+
